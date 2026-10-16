@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+data/leaderboard.json
+models/*/
+!models/README.md
+.venv.DS_Store
+.venv
